@@ -37,7 +37,7 @@ Injector.transform('character-count-transform', (updater) => {
 });
 ```
 
-The last thing we'll have to do is [transpile our code](../06_Javascript_Development.md#es6-and-build-tools) and load the resulting bundle file
+The last thing we'll have to do is [transpile our code](../../06_Javascript_Development.md#es6-and-build-tools) and load the resulting bundle file
 into the admin page.
 
 __my-module/\_config/config.yml__
